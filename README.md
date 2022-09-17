@@ -12,4 +12,5 @@ Tested with Macbook Pro 2020 on M1
 - run `chmod +x hamsterinstall_osx_aarch64.command`
 - run `./hamsterinstall_osx_aarch64.command` to start the installation
 - to open Hamstersimulator, use `hamsterstart.command`
-  * first you need to open the file with right-click while holding the option key
+  * at first time you need to open it with right-click while holding the option key
+
