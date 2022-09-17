@@ -20,6 +20,7 @@ rm ./tmp_ham.zip
 # UNUSED
 rm ./hamstersimulator-v29-06/hamstersimulator.bat
 rm ./hamstersimulator-v29-06/hamstersimulator.sh
+rm ./README.md
 
 # CHMOD EXECUTE FILE
 chmod +x ./$STARTUP
