@@ -8,7 +8,7 @@ Tested with Macbook Pro 2020 on M1
 - download the repo:  
   * `Code` -> `Download ZIP`
 - unzip the file and locate the folder where you want it
-- right-click on `hamsterscript-main` and click on `New Terminal in Folder`
+- right-click on `hamsterscripts-main` and click on `New Terminal in Folder`
 - run `chmod +x hamsterinstall_osx_aarch64.command`
 - open `hamsterinstall_osx_aarch64.command`
 - when its finished, open Hamstersimulator with `hamsterstart.command`
